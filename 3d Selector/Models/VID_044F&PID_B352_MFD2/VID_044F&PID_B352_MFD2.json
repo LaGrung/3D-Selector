@@ -1,0 +1,34 @@
+[
+{ "x":202, "y":250, "radius":1, "systemName":"Btn1", "customName":"maner_model3", "image":"thr_b01.png" },
+{ "x":228, "y":266, "radius":2, "systemName":"Btn2", "customName":"maner_model3", "image":"thr_b02.png" },
+{ "x":255, "y":281, "radius":3, "systemName":"Btn3", "customName":"maner_model3", "image":"thr_b03.png" },
+{ "x":177, "y":267, "radius":4, "systemName":"Btn4", "customName":"maner_model3", "image":"thr_b04.png" },
+{ "x":228, "y":297, "radius":5, "systemName":"Btn5", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":202, "y":250, "radius":6, "systemName":"Btn6", "customName":"maner_model3", "image":"thr_b01.png" },
+{ "x":228, "y":266, "radius":7, "systemName":"Btn7", "customName":"maner_model3", "image":"thr_b02.png" },
+{ "x":255, "y":281, "radius":8, "systemName":"Btn8", "customName":"maner_model3", "image":"thr_b03.png" },
+{ "x":177, "y":267, "radius":9, "systemName":"Btn9", "customName":"maner_model3", "image":"thr_b04.png" },
+{ "x":228, "y":297, "radius":10, "systemName":"Btn10", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":200, "y":283, "radius":11, "systemName":"Btn11", "customName":"maner_model3", "image":"thr_b05.png" },
+{ "x":228, "y":297, "radius":12, "systemName":"Btn12", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":13, "systemName":"Btn13", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":14, "systemName":"Btn14", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":15, "systemName":"Btn15", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":16, "systemName":"Btn16", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":17, "systemName":"Btn17", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":18, "systemName":"Btn18", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":19, "systemName":"Btn19", "customName":"maner_model3", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":20, "systemName":"Btn20", "customName":"maner_model3", "image":"thr_b06.png" },
+
+
+{ "x":228, "y":297, "radius":1, "systemName":"B1", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":2, "systemName":"B2", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":3, "systemName":"B3", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":4, "systemName":"B4", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":5, "systemName":"B5", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":6, "systemName":"B6", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":7, "systemName":"B7", "customName":"deschis", "image":"thr_b06.png" },
+{ "x":228, "y":297, "radius":8, "systemName":"B8", "customName":"deschis", "image":"thr_b06.png" }
+
+
+]

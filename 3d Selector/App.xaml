@@ -1,0 +1,9 @@
+﻿<Application x:Class="_3d_Selector.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_3d_Selector"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="BrushTest" Color="Red"></SolidColorBrush>
+    </Application.Resources>
+</Application>

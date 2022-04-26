@@ -1,0 +1,26 @@
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.exe
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.deps.json
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.runtimeconfig.json
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.runtimeconfig.dev.json
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.dll
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\3d Selector.pdb
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector_MarkupCompile.cache
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector_MarkupCompile.lref
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.g.resources
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.AssemblyInfoInputs.cache
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.AssemblyInfo.cs
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.csproj.CoreCompileInputs.cache
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.dll
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.pdb
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.genruntimeconfig.cache
+C:\Users\pavly\source\repos\3d Selector\3d Selector\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\Models\VID_044F&PID_0406_A320_Copilot\VID_044F&PID_0406_A320_Copilot.baml
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\Models\VID_044F&PID_B352_MFD2\VID_044F&PID_B352_MFD2.baml
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\_3d_Selector.Properties.Resources.resources
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.csproj.GenerateResource.cache
+C:\Users\pavly\source\repos\3d Selector\3d Selector\obj\Debug\netcoreapp3.1\3d Selector.csproj.AssemblyReference.cache

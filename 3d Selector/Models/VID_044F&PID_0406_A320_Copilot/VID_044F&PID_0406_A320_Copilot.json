@@ -1,0 +1,26 @@
+[
+{ "x":202, "y":250, "radius":2, "systemName":"Btn1", "customName":"deschis", "image":"" },
+{ "x":228, "y":266, "radius":4, "systemName":"Btn2", "customName":"deschis", "image":"thr_b02.png" },
+{ "x":255, "y":281, "radius":6, "systemName":"Btn3", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":9, "systemName":"Btn4", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":11, "systemName":"Btn5", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":13, "systemName":"Btn6", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":15, "systemName":"Btn7", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":17, "systemName":"Btn8", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":19, "systemName":"Btn9", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":21, "systemName":"Btn10", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":23, "systemName":"Btn11", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":25, "systemName":"Btn12", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":27, "systemName":"Btn13", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":29, "systemName":"Btn14", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":31, "systemName":"Btn15", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":33, "systemName":"Btn16", "customName":"deschis", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":35, "systemName":"Btn17", "customName":"deschis", "image":"thr_b03.png" },
+
+{ "x":255, "y":281, "radius":1, "systemName":"Axes Right", "customName":"axes", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":2, "systemName":"Axes Left", "customName":"axes", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":3, "systemName":"Axes Forward", "customName":"axes", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":4, "systemName":"Axes Backward", "customName":"axes", "image":"thr_b03.png" },
+{ "x":255, "y":281, "radius":5, "systemName":"Axes Rotation", "customName":"axes", "image":"thr_b03.png" }
+
+]
